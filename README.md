@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏛️ Sophomore at IIT Roorkee. <br>🔭 I’m intrested in Web3 & Blockchain Development <br>👨‍💻 3rd place in Blockathon <br>👯 I’m looking to collaborate on Web3 projects <br> 🤝 Member ArIES
+🏛️ Sophomore at IIT Roorkee. <br>🔭 I’m intrested in Web3 & Blockchain Development <br>👨‍💻 3rd place in Blockathon <br>👯 I’m looking to collaborate on Web3 projects 
 
 
 ## 🌐 Socials:
