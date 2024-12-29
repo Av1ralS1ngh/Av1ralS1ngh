@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏛️ Sophomore at IIT Roorkee. <br>🔭 I’m intrested in Web3 & Blockchain Development <br>👨‍💻 3rd place in Blockathon<br>👨‍💻 Winner in 100xDevs track in SyntaxError<br>👯 I’m looking to collaborate on Web3 projects 
+🏛️ Sophomore at IIT Roorkee. <br>🔭 I’m intrested in Web3 & Blockchain Development. <br>👨‍💻 Winner in 100xDevs track in SyntaxError, 3rd place in ICP India Blockathon. <br>👯 I’m looking to collaborate on Web3 projects 
 
 
 ## 🌐 Socials:
