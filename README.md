@@ -1,6 +1,25 @@
 # 💫 About Me:
-🏛️ Sophomore at IIT Roorkee. <br>💻 I’m intrested in Web3 & Blockchain Development. <br>🥇 AM Hacks 2025 • 🥇 DU Hacks 2025 • 🥇 Syntax Error 2024 • 🥈 & 🥉 StackTooDeep v2.0 • 🥉 Blockathon 2024 • 🏆 Coinbase Prize Pool winner at Agentic Ethereum <br> ⚒️ Buidler at BuidlGuidl Batch 15 <br>👯 I’m looking to collaborate on Web3 projects 
+🏛️ Sophomore at IIT Roorkee. <br>💻 I’m intrested in Web3 & Blockchain Development. <br>🥇 AM Hacks 2025 • 🥇 DU Hacks 4.0 • 🥇 Syntax Error 2024 • 🥈 & 🥉 StackTooDeep v2.0 • 🥉 Blockathon 2024 • 🏆 Coinbase Prize Pool winner at Agentic Ethereum <br> ⚒️ Buidler at BuidlGuidl Batch 15 <br>👯 I’m looking to collaborate on Web3 projects 
 
+## 🚀 Featured Projects: 
+  
+- 🧠 **AI Agent Assisted DeFi Learning Platform**  
+  [GitHub Repo](https://github.com/arnavkirti/DeFi-Dojo) •  Won 🥇 at AM Hacks 2025  
+  → Interactive platform where AI agents guide users through DeFi concepts, simulate strategies, and offer personalized learning paths.
+
+- 🌉 **Cross-Chain NFT Bridge (LayerZero)**  
+  [GitHub Repo](https://github.com/Av1ralS1ngh/Velmora) • Won 🥇 at DU Hacks 4.0  
+  → Transfer NFTs between Ethereum and Polygon using LayerZero and IPFS.
+
+- 🔋 **Gas Abstraction Wallet (ERC-4337)**  
+  [GitHub Repo](https://github.com/Av1ralS1ngh/Gas-Modulation-App)  • Won 🥇 at Syntax Error 2024  
+  → Account abstraction wallet that auto-pays gas fees for small transactions using a local pool. 
+
+- 🤖 **AI NPCs NFT Game**  
+  [GitHub Repo](https://github.com/Av1ralS1ngh/Aura-Land) • Won 🥈 & 🥉 at StackTooDeep v2.0  
+  → Three.js + blockchain-based game with AI-powered characters offering token/NFT exchanges.
+
+---
 
 ## 🌐 Socials:
  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xFaucetFailure) [![Farcaster](https://img.shields.io/badge/Farcaster-674FFB.svg?logo=farcaster&logoColor=white)](https://warpcast.com/0xfaucetfailure) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aviral-singh-b854a6342) [![Telegram](https://img.shields.io/badge/-26A5E4.svg?logo=telegram&logoColor=white)](https://t.me/Aviral02Singh)
